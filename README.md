@@ -14,7 +14,7 @@ Este bloque marca el inicio del pensamiento orientado a objetos y enseña a dise
 - [🧱 CPP00 – Fundamentos del lenguaje C++](#-cpp00--fundamentos-del-lenguaje-c)
 - [⚙️ CPP01 – Memoria, punteros y referencias](#cpp01)
 - [🔢 CPP02 – Clases canónicas y operadores](#-cpp02--clases-canónicas-y-sobrecarga-de-operadores)
-- [⚔️ CPP03 – Herencia y reutilización](#-cpp03--herencia-y-reutilización-de-clases)
+- [⚔️ CPP03 – Herencia y reutilización de clases](#-cpp03--herencia-y-reutilización-de-clases)
 - [🧬 CPP04 – Polimorfismo y abstracción](#-cpp04--polimorfismo-clases-abstractas-y-composición)
 - [🧾 Conclusión General](#-conclusión-general)
 - [📚 Recursos Recomendados](#-recursos-recomendados)
