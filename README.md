@@ -589,8 +589,8 @@ graph TD
 
 💡 **CPP02** refuerza la comprensión profunda de la estructura de clases en C++, fomentando un estilo limpio, reutilizable y expresivo.
 
+<!-- Section CPP03 -->
 # ⚔️ CPP03 – Herencia y reutilización de clases
-<span id="cpp03"></span>
 
 ## 🧭 Introducción
 El módulo **CPP03** introduce uno de los pilares más importantes de la **Programación Orientada a Objetos (POO)**: la **herencia**.  
