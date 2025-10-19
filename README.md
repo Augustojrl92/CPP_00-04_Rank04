@@ -394,6 +394,7 @@ graph TD
 💡 **CPP01** refuerza el control sobre la memoria y enseña a diseñar clases seguras que gestionan correctamente sus recursos.
 
 <!-- Section CPP02 -->
+
 # 🔢 CPP02 – Clases canónicas y sobrecarga de operadores
 
 ## 🎯 Objetivo del módulo
@@ -563,7 +564,7 @@ bool bsp(Point const a, Point const b, Point const c, Point const point);
 ---
 
 ## 📊 Diagrama CPP02
-```mermaid
+```
 graph TD
     A[Main] --> B[Fixed]
     B --> C[Operadores + - * /]
